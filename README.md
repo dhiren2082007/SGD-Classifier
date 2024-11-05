@@ -57,13 +57,14 @@ print(cm)
 ```
 
 ## Output:
-Head
+**Head**
 
-![367656537-278ac232-c82e-451b-80f5-24c487bdb483](https://github.com/user-attachments/assets/5e6bf045-f71a-410c-9091-a11af7b30aee)
+![Screenshot 2024-11-05 001248](https://github.com/user-attachments/assets/bff5a72e-3522-4004-93c2-835450615c09)
 
-Target
+**Target**
 
-![367656537-278ac232-c82e-451b-80f5-24c487bdb483](https://github.com/user-attachments/assets/36cfe80d-0e46-4fcf-9c15-db494a9ca7c5)
+![Screenshot 2024-11-05 001254](https://github.com/user-attachments/assets/9cff2ede-c2d1-49ff-88be-cfd1cffa8344)
+
 
 ![Screenshot 2024-09-24 172408](https://github.com/user-attachments/assets/35b69c63-c7e4-4cfa-9464-650470e200b5)
 
